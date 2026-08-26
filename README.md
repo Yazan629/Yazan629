@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yazn 👋
 
-<!--
-**Yazan629/Yazan629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying Software Engineering and working toward an apprenticeship as an IT specialist for application development. Alongside my studies, I build my own projects in C++ to deepen my understanding of object-oriented programming and clean software architecture.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Bank Management System](https://github.com/Yazan629/bank-system-cpp) – Console-based system with login, account management, and file storage
+- [Contact Management Tool](https://github.com/Yazan629/contact-management-system-cpp) – Address book with real-time validation and persistent storage
+- [Ticket Management System](https://github.com/Yazan629/ticket-management-system-cpp) – IT ticket system using class inheritance for software, hardware, and network tickets
+
+## Technologies
+
+C++, C, Object-Oriented Programming, STL, File Handling, Data Persistence
+
+## Contact
+
+Email: yazn.alabdullah@yahoo.com
