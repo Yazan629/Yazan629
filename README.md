@@ -17,7 +17,7 @@ Future IT specialist for application development (Fachinformatiker für Anwendun
 ## 🚀 Projects
 
 **C#**
-- [Console Games](https://github.com/Yazan629/console-games-csharp): Small console games like Dungeon Escape and Boss Quiz, with game loops, 2D arrays and random questions
+- [Console Games](https://github.com/Yazan629/console-games-csharp): Collection of small console games in C#, starting with Dungeon Escape (2D array map, game loop, key and exit logic)
 
 **C++**
 - [Ticket Management System](https://github.com/Yazan629/ticket-management-system-cpp): IT ticket system with class inheritance for software, hardware and network tickets
