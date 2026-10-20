@@ -5,8 +5,8 @@ Future IT specialist for application development (Fachinformatiker für Anwendun
 ## 🔭 Currently
 
 - Learning C# and object-oriented programming
-- Building small console games in C#
-- Interested in game development
+- Building console applications and small games in C#
+- Getting better at clean code and Git
 
 ## 🛠 Tech Stack
 
