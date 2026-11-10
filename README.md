@@ -29,7 +29,6 @@ Future IT specialist for application development (Fachinformatiker für Anwendun
 **Web**
 - [Nova Digital](https://github.com/Yazan629/nova-digital): Landing page for a fictional digital agency, built with HTML5 and CSS3 (Flexbox, parallax scrolling, responsive design)
 - [VERTEC Antriebstechnik](https://github.com/Yazan629/vertec-website): Website for a fictional industrial company, built with plain HTML and CSS (Flexbox, semantic structure, four-column footer, no frameworks)
-- [Nova Digital](https://github.com/Yazan629/nova-digital): Landing page for a fictional digital agency, built with HTML5 and CSS3 (Flexbox, parallax scrolling, responsive design)
 ## 📫 Contact
 
 Email: yazn.alabdullah@yahoo.com
