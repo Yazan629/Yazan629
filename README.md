@@ -7,12 +7,14 @@ Future IT specialist for application development (Fachinformatiker für Anwendun
 - Learning C# and object-oriented programming
 - Building console applications and small games in C#
 - Getting better at clean code and Git
+- Building websites with HTML and CSS, currently learning JavaScript and React
 
 ## 🛠 Tech Stack
 
 **Languages:** C#, C++, C, HTML5, CSS3  
 **Concepts:** Object-Oriented Programming, Inheritance, 2D Arrays, Lists, File Handling, Input Validation  
 **Tools:** .NET, Git, GitHub, VS Code
+**Concepts:** Object-Oriented Programming, Inheritance, 2D Arrays, Lists, File Handling, Input Validation, Flexbox, Semantic HTML
 
 ## 🚀 Projects
 
@@ -26,7 +28,8 @@ Future IT specialist for application development (Fachinformatiker für Anwendun
 
 **Web**
 - [Nova Digital](https://github.com/Yazan629/nova-digital): Landing page for a fictional digital agency, built with HTML5 and CSS3 (Flexbox, parallax scrolling, responsive design)
-
+- [VERTEC Antriebstechnik](https://github.com/Yazan629/vertec-website): Website for a fictional industrial company, built with plain HTML and CSS (Flexbox, semantic structure, four-column footer, no frameworks)
+- [Nova Digital](https://github.com/Yazan629/nova-digital): Landing page for a fictional digital agency, built with HTML5 and CSS3 (Flexbox, parallax scrolling, responsive design)
 ## 📫 Contact
 
 Email: yazn.alabdullah@yahoo.com
